@@ -12,12 +12,12 @@ This course focuses on balancing important theory concepts with practical hands-
 * Unsupervised Learning Tasks
 * Tensors with PyTorch
 * Neural Network Theory
-1. Perceptrons
-2. Networks
-3. Activation Functions
-4. Cost/Loss Functions
-5. Backpropagation
-6. Gradients
+  1. Perceptrons
+  2. Networks
+  3. Activation Functions
+  4. Cost/Loss Functions
+  5. Backpropagation
+  6. Gradients
 * Artificial Neural Networks
 * Convolutional Neural Networks
 * Recurrent Neural Networks
